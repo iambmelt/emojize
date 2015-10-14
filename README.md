@@ -1,7 +1,7 @@
 :sparkles: :heart:  Emojize Java :heart: :sparkles:
 =======
 
-Emojize is a Java library to convert keyboard emojis to chearsheet emojis
+Emojize is a Java library to convert keyboard emojis to cheatsheet emojis
 
 
 ## Emojize Java
